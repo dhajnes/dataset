@@ -1,3 +1,4 @@
+# DATASET
 ### DATA Science, Estimation and Training methods all in one place.
 This project was created as an ongoing **self-development** project. The goal is to describe general Data Science or Data Estimation or last, but not least, Machine Learning methods that one used in their work/other projects. The methods are meant to be **described at three levels of complexity**. First is **one sentence**. The second is **one paragraph**. The last is free for all, may consist of **one to  infinity  pages**, also including jupyter notebooks or other runnable examples.
 
