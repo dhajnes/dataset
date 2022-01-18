@@ -1,22 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/dhajnes/dataset/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+# Welcome to DATASET.
+## DATA Science, Estimation and Training methods all in one place.
+This project was created as an ongoing **self-development** project. The goal is to describe general Data Science or Data Estimation or last, but not least, Machine Learning methods that one used in their work/other projects. The methods are meant to be **described at three levels of complexity**. First is **one sentence**. The second is **one paragraph**. The last is free for all, may consist of **one to  infinity  pages**, also including jupyter notebooks or other runnable examples.
 
 1. Numbered
 2. List
